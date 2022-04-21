@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "username": "Prashant",
+      "age": "23",
+      "address": "Delhi",
+      "salary": "0",
+      "department": "Civil",
+      "id": 1
+    },
+    {
+      "username": "Maurya",
+      "age": "23",
+      "address": "Uttar Pradesh",
+      "salary": "0",
+      "department": "Eletrical",
+      "id": 2
+    }
+    
+  ]
+}
